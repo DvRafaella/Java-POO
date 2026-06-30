@@ -99,5 +99,32 @@ Depois acontece:
 4. A JVM converte as instruções para o código de máquina do seu computador e o programa é executado.
 
 
+JDK (Java Development Kit)
+
+O JDK é o kit de desenvolvimento Java.
+
+Ele é usado por quem programa em Java.
+
+O que ele contém?
+✅ Compilador (javac)
+✅ JRE
+✅ Ferramentas de desenvolvimento (como javadoc, jar, jdb, entre outras)
+
+Sua principal função é criar, compilar e executar programas Java.
+
+
+JRE (Java Runtime Environment)
+
+O JRE é o ambiente de execução Java.
+
+Ele serve para executar programas Java, mas não permite compilá-los.
+
+O que ele contém?
+✅ JVM
+✅ Bibliotecas necessárias para rodar programas Java
+
+Se você só quer abrir um programa Java, o JRE é suficiente.
+
+
 
 
