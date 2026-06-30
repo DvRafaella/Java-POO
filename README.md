@@ -83,20 +83,6 @@ Código de máquina
 Programa executando
 ```
 
-### Exemplo completo
-
-Você escreve:
-
-```java
-System.out.println("Olá!");
-```
-
-Depois acontece:
-
-1. Você salva em um arquivo **`.java`**.
-2. O compilador (`javac`) transforma o código em **bytecode** (`.class`).
-3. A **JVM** lê esse bytecode.
-4. A JVM converte as instruções para o código de máquina do seu computador e o programa é executado.
 
 
 JDK (Java Development Kit)
